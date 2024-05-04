@@ -1,2 +1,4 @@
-# COVID-19-Twitter-Demotivating-Topics
-Store the data and models for the paper.
+# Analyzing Long-term Public Opinion on COVID-19 Vaccine
+The COVID-19 pandemic exposed significant weaknesses in the healthcare information system. The overwhelming volume of misinformation on social media and other socioeconomic factors created extraordinary challenges to motivate people to take proper precautions and get vaccinated. In this context, our work explored a novel direction by analyzing an extensive dataset collected over two years, identifying the topics de/motivating the public about COVID-19 vaccination. We analyzed these topics based on time, geographic location, and political orientation. We noticed that while the motivating topics remain the same over time and geographic location, the demotivating topics   rapidly. We also identified that intrinsic motivation, rather than external mandate, is more advantageous to inspire the public. This study addresses scientific communication and public motivation in social media. It can help public health officials, policymakers, and social media platforms develop more effective messaging strategies to cut through the noise of misinformation and educate the public about scientific findings.
+
+This repository hosts the dataset and models from the study. Please contact the author for further details.
